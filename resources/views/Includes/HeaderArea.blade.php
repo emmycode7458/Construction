@@ -11,8 +11,8 @@
                         <ul id="mobilemenu">
                         <ul id="mobilemenu">
                             <li><a href="{{ url ('/') }}">Home</a></li>
-							<li><a href="{{ url ('/about') }}">About</a></li>
-							<li><a href="{{ url ('/services') }}">Service</a><li>                           
+							<li><a href="{{ url ('/about') }}">About Us</a></li>
+							<li><a href="{{ url ('/services') }}">Service</a></li>                           
                             <li><a href="{{ url ('/contact')}}">Contact Us</a></li>
 						</ul>
 						
